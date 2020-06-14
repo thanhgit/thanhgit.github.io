@@ -21,19 +21,16 @@ primarylinks:
    url: https://www.linkedin.com/in/nguyen-phuc-thanh-5383b5117/
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
+ - Golang, Java, C#, Shell Script
+ - Reactjs, Nodejs
+ - Microservices (Kubernetes), Rancher, Docker, Docker-Compose, Docker swarm
  - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
+ - API design, REST
+ - Nginx, HAproxy, gitlab
+ - Monitoring tools with Elastic and TICK stack
+ - Spring MVC/Boot
+ - Mongodb, Mysql, Postgress
+ - SOLID Principles, Design Patterns
  - Technical Architecture
  - Machine learning
 
