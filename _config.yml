@@ -40,16 +40,16 @@ skills:
 #Work experience is required
 roles:
  - title: System Engineer
-   start: 4-2019
-   end: 4-2020
+   start: 2019
+   end: 2020
    employer: FPT Telecom
  - title: Product Owner
-   start: 11-2018
-   end: 4-2019
+   start: 2018
+   end: 2019
    employer: Ridi Project
  - title: React Native Web App Developer
-   start: 9-2018
-   end: 11-2018
+   start: 2018
+   end: 2018
    employer: ME Corp
    
 #Education is required
