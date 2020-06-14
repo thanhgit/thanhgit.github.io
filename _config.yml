@@ -54,7 +54,7 @@ roles:
    
 #Education is required
 education:
- - level:  degree of Engineer
+ - level:  Degree of Engineer
    date: 2020
    subject: Software Engineering
    school: Uninversity Of Information Technology, Viet Nam National University - Ho Chi Minh
@@ -86,16 +86,19 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
+ - thanhgit/thanhgit.github.io
+ - thanhgit/mywebook
+ - thanhgit/front-end-remote-server
+ - thanhgit/back-end-remote-server
+ - thanhgit/backend-contest
+ - thanhgit/NinjaGaiden
+ - thanhgit/my_note
+ - thanhgit/GamePingPong
+ - thanhgit/Wanna-film
+ - thanhgit/RestaurentMG
+ - thanhgit/DoAnMario
+ - thanhgit/Xpo
+ - thanhgit/VNUFoody
 
 #Stackoverflow flair is optional
 # stackoverflow:
