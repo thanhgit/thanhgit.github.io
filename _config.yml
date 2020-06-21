@@ -51,7 +51,7 @@ roles:
    start: 2018
    end: 2019
    employer: Ridi Project
- - title: React Native Web App Developer
+ - title: React Developer
    start: 2018
    end: 2018
    employer: ME Corp
@@ -90,19 +90,26 @@ roles:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - thanhgit/thanhgit.github.io
+ - thanhgit/NinjaGaiden
+ - thanhgit/Wanna-film
+ - thanhgit/DoAnMario
+ - thanhgit/RestaurentMG
  - thanhgit/mywebook
  - thanhgit/front-end-remote-server
  - thanhgit/back-end-remote-server
- - thanhgit/backend-contest
- - thanhgit/NinjaGaiden
- - thanhgit/my_note
- - thanhgit/GamePingPong
- - thanhgit/Wanna-film
- - thanhgit/RestaurentMG
- - thanhgit/DoAnMario
  - thanhgit/Xpo
  - thanhgit/VNUFoody
+ - thanhgit/thanhgit.github.io
+
+speakerdeck:
+   profileurl: https://speakerdeck.com/thanhgit
+   talks:
+    - title: Facebook Monitoring
+      speakerdeckId: 3ee0f957-ce3f-4c87-8212-35eaf849eeda
+      conference: API Conference, Berlin 2018
+    - title: Agile Machine Learning - from Theory to Production
+      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #Stackoverflow flair is optional
 # stackoverflow:
