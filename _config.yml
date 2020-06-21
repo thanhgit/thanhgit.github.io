@@ -13,9 +13,9 @@ primarylinks:
 #    url: https://automateddeveloper.blogspot.com/
  - title: GitHub
    url: https://github.com/thanhgit
- - title: ShareStack
+ - title: Share Stack
    url: https://stackshare.io/thanhgit
- - title: SpeakerDeck
+ - title: Speaker Deck
    url: https://speakerdeck.com/thanhgit
 #  - title: StackOverflow
 #    url: https://stackoverflow.com/users/258813/rhinds
@@ -105,7 +105,7 @@ speakerdeck:
    profileurl: https://speakerdeck.com/thanhgit
    talks:
     - title: Facebook Monitoring
-      speakerdeckId: 3ee0f957-ce3f-4c87-8212-35eaf849eeda
+      speakerdeckId: 3ee0f957ce3f4c87821235eaf849eeda
       conference: API Conference, Berlin 2018
     - title: Agile Machine Learning - from Theory to Production
       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
