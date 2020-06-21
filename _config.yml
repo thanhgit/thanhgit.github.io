@@ -105,12 +105,8 @@ speakerdeck:
    profileurl: https://speakerdeck.com/thanhgit
    talks:
     - title: Facebook Monitoring
-      speakerdeckId: 3ee0f957ce3f4c87821235eaf849eeda
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
-
+      speakerdeckId: cd14962ebfc14c63b612c139c43306e5
+      
 #Stackoverflow flair is optional
 # stackoverflow:
 #    profileurl: https://stackoverflow.com/users/258813/rhinds
