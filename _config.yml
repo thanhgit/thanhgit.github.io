@@ -1,6 +1,5 @@
 # Site settings
 title: Thanh Nguyen
-twitter_username: PhucThanh16
 name: Thanh Nguyen Phuc
 
 # Build settings
@@ -37,6 +36,7 @@ skills:
  - SOLID Principles, Design Patterns
  - Technical Architecture
  - Machine learning
+ - Jenkins, Artfactory, SonarQube
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 # blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
@@ -99,7 +99,7 @@ github:
  - thanhgit/back-end-remote-server
  - thanhgit/Xpo
  - thanhgit/VNUFoody
- - thanhgit/myci
+ - thanhgit/setup-CI
 
 speakerdeck:
    profileurl: https://speakerdeck.com/thanhgit
