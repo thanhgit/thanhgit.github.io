@@ -106,6 +106,22 @@ speakerdeck:
    talks:
     - title: Facebook Monitoring
       speakerdeckId: cd14962ebfc14c63b612c139c43306e5
+      conference: Ho Chi Minh city
+    - title: Blockchain in traceability problem
+      speakerdeckId: 6a1a780a0862471cbe5d22c3f90ff744
+      conference: Ho Chi Minh city
+    - title: Elastic stack in operation
+      speakerdeckId: 440435439aff404891a216741f2b9423
+      conference: Ho Chi Minh city
+    - title: WANNA-FILM
+      speakerdeckId: 6b49913ad60743ee864383e6e4de54a7
+      conference: Ho Chi Minh city
+    - title: Ninja Gaiden
+      speakerdeckId: 5ba4011ac689460995046da1e30a1ab2
+      conference: Ho Chi Minh city
+    - title: Blockchain
+      speakerdeckId: 58eabb9257054ca3b5c814d05bec4bfe
+      conference: Ho Chi Minh city
       
 #Stackoverflow flair is optional
 # stackoverflow:
