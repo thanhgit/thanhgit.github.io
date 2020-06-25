@@ -90,6 +90,7 @@ roles:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - thanhgit/go-explained
  - thanhgit/NinjaGaiden
  - thanhgit/Wanna-film
  - thanhgit/DoAnMario
