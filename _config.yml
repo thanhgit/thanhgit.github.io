@@ -43,6 +43,10 @@ skills:
 
 #Work experience is required
 roles:
+ - title: Website developer
+   start: 220
+   end: now
+   employer: FPT Telecom
  - title: System Engineer
    start: 2019
    end: 2020
