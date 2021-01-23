@@ -61,11 +61,11 @@ roles:
    employer: ME Corp
    
 #Education is required
-education:
- - level:  Degree of Engineer
-   date: 2020
-   subject: Software Engineering
-   school: Uninversity Of Information Technology, Viet Nam National University - Ho Chi Minh
+# education:
+#  - level:  Degree of Engineer
+#    date: 2020
+#    subject: Software Engineering
+#    school: Uninversity Of Information Technology, Viet Nam National University - Ho Chi Minh
 
 #This section is optional (as is the image link below)
 # coursera:
