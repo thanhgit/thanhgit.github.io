@@ -60,7 +60,7 @@ roles:
    end: 2018
    employer: ME Corp
    
-Education is required
+#Education is required
 education:
  - level:  Degree of Engineer
    date: 2020
