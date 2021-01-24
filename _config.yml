@@ -111,6 +111,9 @@ speakerdeck:
     - title: Facebook Monitoring
       speakerdeckId: cd14962ebfc14c63b612c139c43306e5
       conference: Ho Chi Minh city
+    - title: Giới thiệu về kiến trúc phần mềm
+      speakerdeckId: fa9d41cec9a84b71b3f24dc0ea0e5b90
+      conference: Ho Chi Minh city
     - title: Blockchain
       speakerdeckId: 58eabb9257054ca3b5c814d05bec4bfe
       conference: Ho Chi Minh city
