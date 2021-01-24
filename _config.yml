@@ -24,15 +24,12 @@ primarylinks:
    url: https://www.linkedin.com/in/nguyen-phuc-thanh/
 #Any buzzword skills you want to include
 skills:
- - Golang, Java, C#, Shell Script
- - Reactjs, Nodejs
- - Microservices (Kubernetes), Rancher, Docker, Docker-Compose, Docker swarm
- - Product management
- - API design, REST
+ - Golang
+ - Reactjs
+ - Microservices (Kubernetes), Rancher, Docker
  - Nginx, HAproxy, gitlab
  - Monitoring tools with Elastic and TICK stack
- - Spring MVC/Boot
- - Mongodb, Mysql, Postgress
+ - Mongodb, Mysql
  - SOLID Principles, Design Patterns
  - Technical Architecture
  - Machine learning
@@ -94,6 +91,8 @@ roles:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - thanhgit/Ridi-mobile
+ - thanhgit/Ridi-backend
  - thanhgit/go-explained
  - thanhgit/NinjaGaiden
  - thanhgit/Wanna-film
